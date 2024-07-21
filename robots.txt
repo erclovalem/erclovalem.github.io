@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erclovalem.github.io/sitemap
+Sitemap: https://erclovalem.github.io/app/sitemap
+Sitemap: https://erclovalem.github.io/assets/sitemap
+Sitemap: https://erclovalem.github.io/css/sitemap
+Sitemap: https://erclovalem.github.io/includes/sitemap
+Sitemap: https://erclovalem.github.io/item/sitemap
+Sitemap: https://erclovalem.github.io/src/sitemap
